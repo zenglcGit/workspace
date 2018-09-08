@@ -18,8 +18,4 @@ int FrontAndDequeue(Queue q);
 //±éÀú¶ÓÁĞ
 void Traverse(Queue q);
 
-
-
-
-
 #endif // _Queue_h

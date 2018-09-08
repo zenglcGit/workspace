@@ -1,8 +1,8 @@
 # depslib dependency file v1.0
-1536376683 source:d:\workspace\test\main.c
+1536394493 source:d:\workspace\test\main.c
 	<stdio.h>
 	<stdlib.h>
-	"queue.h"
+	"queue_list.h"
 
 1525011039 source:d:\workspace\test\list.c
 	<stdio.h>
@@ -16,5 +16,11 @@
 	"queue.h"
 	<stdlib.h>
 
-1536376593 d:\workspace\test\queue.h
+1536391332 d:\workspace\test\queue.h
+
+1536394465 source:d:\workspace\test\queue_list.c
+	"queue_list.h"
+	<stdlib.h>
+
+1536393242 d:\workspace\test\queue_list.h
 

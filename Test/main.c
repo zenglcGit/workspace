@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "queue.h"
+#include "queue_list.h"
 
 int main()
 {
@@ -14,7 +14,13 @@ int main()
     Traverse(q);
     Dequeue(q);
     Traverse(q);
-    DisposeQueue(q);
+    Dequeue(q);
     Traverse(q);
+    Dequeue(q);
+    Traverse(q);
+    Dequeue(q);
+    Traverse(q);
+    DisposeQueue(q);
+    //Traverse(q);
     return 0;
 }
